@@ -16,6 +16,10 @@
     "name": "Poppod",
     "url": "https://github.com/poppod56"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poppod56/EasyThaiFontAdjustment.git"
+  },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
   },
