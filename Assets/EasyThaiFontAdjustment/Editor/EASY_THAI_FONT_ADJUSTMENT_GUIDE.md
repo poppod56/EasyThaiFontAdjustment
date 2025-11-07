@@ -517,5 +517,4 @@ A: กด Undo แล้ว Apply ใหม่ หรือ Clear All Rules แ�
 ---
 
 **Version:** 1.0  
-**Compatible with:** Unity 2021.x+, TextMeshPro 3.x+  
-**Author:** Created for RoboPark Project
+**Compatible:** Unity 2021.x+, TextMeshPro 3.x+
