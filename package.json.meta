@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: $(uuidgen | tr '[:upper:]' '[:lower:]' | tr -d '-' | head -c 32)
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
